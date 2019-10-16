@@ -1,6 +1,6 @@
 # Practica01_Mi_Blog
 
-Tema: Gafas y Lentes Ray Ban.
+Tema: Gafas y Lentes Visual Ups.
 
 Descripcion: Mi pagina consta de 6 partes como lo vamos a describir ahora:
 
